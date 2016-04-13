@@ -7,3 +7,9 @@ ul {
 	border: 2px solid #dd4124;
 	border-radius: 10%;
 }
+
+.list {
+	border: 3px solid #ddd;
+	border-radius: 10px;
+	align-content: center;
+}
